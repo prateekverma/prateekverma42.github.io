@@ -1,0 +1,10 @@
+#coverpage{
+    background-image: url(../img/exhibition/2.png);
+    background-repeat: no-repeat;
+    background-position: top center; 
+    background-size: cover;
+    width: 100%;
+    height: 0;
+    padding-bottom: 329%;
+}
+

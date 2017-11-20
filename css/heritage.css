@@ -1,0 +1,53 @@
+#coverpage{
+    background-image: url(../img/mapager/mapager2/1.png);
+    background-repeat: no-repeat;
+    background-position: top center; 
+    background-size: cover;
+    width: 100%;
+    height: 0;
+    padding-bottom: 194%;
+}
+
+#appscreen1{
+    background-image: url(../img/mapager/mapager2/2.png);
+    background-repeat: no-repeat;
+    background-position: top center; 
+    background-size: cover;
+    width: 100%;
+    height: 0;
+    padding-bottom: 169%;
+}
+#appscreen2{
+    background-image: url(../img/mapager/mapager2/3.png);
+    background-repeat: no-repeat;
+    background-position: top center; 
+    background-size: cover;
+    width: 100%;
+    height: 0;
+    padding-bottom: 169%;
+}
+
+#appscreen3{
+    background-image: url(../img/mapager/mapager2/4.png);
+    background-repeat: no-repeat;
+    background-position: top center; 
+    background-size: cover;
+    width: 100%;
+    height: 0;
+    padding-bottom: 169%;
+}
+
+#appscreen4{
+    background-image: url(../img/mapager/mapager2/5.png);
+    background-repeat: no-repeat;
+    background-position: top center; 
+    background-size: cover;
+    width: 100%;
+    height: 0;
+    padding-bottom: 169%;
+}
+
+
+.middletext{
+    text-align: center;
+}
