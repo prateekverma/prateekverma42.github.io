@@ -164,7 +164,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 768px) {
   #hero h1 {
-    font-size: 3em;
+    font-size: 2.4em;
     line-height: 36px;
     padding-left: 1em;
     line-height: 120%  
@@ -694,7 +694,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio #portfolio-wrapper {
-  padding-right: 15px;
+  padding-right: 5px;
 }
 
 #portfolio #portfolio-flters {
@@ -706,9 +706,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio #portfolio-flters li {
   cursor: pointer;
-  margin: 0 10px;
+  margin: 10px 10px;
   display: inline-block;
-  padding: 10px 22px;
+  padding: 10px 40px;
   font-size: 12px;
   line-height: 20px;
   color: #666666;
@@ -726,16 +726,21 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item {
   position: relative;
-  height: 200px;
+  height: 350px;
   overflow: hidden !important;
   margin-bottom: 15px;
   transition: all 350ms ease;
   transform: scale(1);
+padding: 1em;    
 }
 
 #portfolio .portfolio-item a {
   display: block;
   margin-right: 15px;
+}
+
+#portfolio-wrapper{
+ 
 }
 
 #portfolio .portfolio-item img {
@@ -765,7 +770,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio .portfolio-item .details span {
   display: block;
   color: black;
-  font-size: 13px;
+  font-size: 11px;
   padding-left: 8px;
 }
 
@@ -981,10 +986,3 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 
-#testo{
-    background-image: url(../img/mapager/4.png);
-    background-repeat: no-repeat;
-    height: auto;
-    background-position: center; 
-    background-size: 100% 100%;
-}
