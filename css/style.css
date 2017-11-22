@@ -484,7 +484,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-container .background {
-  min-height: 480px;
+  min-height: 2250px;
   background: url(../img/dots_6.png);
     background-size: 576px 324px;
   margin-bottom: 10px;
@@ -989,8 +989,13 @@ margin-right: 1.5em;
   color: #ccc;
 }
 
-#nextra{
-    
+#education{
+   text-align: center;
+color: black;
+font-weight: 600;
+padding-bottom: 4em;
+    padding-top: 2em;
+    font-size: 1.5em
 }
 
 
