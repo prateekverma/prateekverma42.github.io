@@ -281,7 +281,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 8px 10px 8px;
   text-decoration: none;
   display: inline-block;
-  color: white;
+  color: rgb(189, 195, 199);
   font-family: 'Montserrat', sans-serif;
   font-weight: 100;
   font-size: 13px;
@@ -476,7 +476,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /* About Us Section
---------------------------------*/
+--------------------------o------*/
 #about {
   background: #fff;
   padding: 160px 0;
